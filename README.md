@@ -11,7 +11,7 @@
 
 
 <audio controls>
-  <source src="デート.mp3" type="audio/mpeg">
+  <source src="デート.mp3">
   您的浏览器不支持 audio 元素。
 </audio>
 
