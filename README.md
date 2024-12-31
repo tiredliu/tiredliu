@@ -1,10 +1,8 @@
-
-
-# Welcome To My Github!<img src="image/.README_image/加油.png" width="30" >
+# Welcome To My Github!<img src="image/.README_image/加油.png" width="30"  >
 
 
 
-<img src="image/.README_image/害羞.png" width="12">   一个相信游戏能治愈心灵创伤的小小开发者。
+### <img src="image/.README_image/害羞.png" width="16">   一个相信游戏能治愈心灵创伤的小小开发者。
 
 
 
@@ -13,27 +11,27 @@
 
 ![亮色](image/.README_image/github-contribution-grid-snake.svg)
 
-## <img src="image/.README_image/藏狐.png" width="32" >Github状态
+## <img src="image/.README_image/藏狐.png" width="24" >Github状态
 
 <img src="https://github-readme-stats.vercel.app/api?username=tiredliu&show_icons=true&theme=blue_navy&hide_title=true"> 
 
 
 
-## <img src="image/.README_image/星星眼.png" width="32" >技术栈
+## <img src="image/.README_image/星星眼.png" width="24" >技术栈
 
 ![](https://skillicons.dev/icons?i=c,cpp,cs,unity,lua)
 
-## <img src="image/.README_image/狗头.png" width="32" >平台
+## <img src="image/.README_image/狗头.png" width="24" >平台
 
 
 
-## <img src="image/.README_image/嗑瓜子.png" width="32" >语言
+## <img src="image/.README_image/嗑瓜子.png" width="24" >语言
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiredliu&hide_title=true&layout=compact&text_color=82AAFF&border_color=ffffff&bg_color=000000">
 
 
 
-## <img src="image/.README_image/狗头.png" width="32" >寒暄
+## <img src="image/.README_image/狗头.png" width="24" >寒暄
 
 <img src="image/.README_image/鼓掌.png" width="24" >ok
 
