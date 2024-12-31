@@ -4,16 +4,46 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tiredliu)
+<img src="image/.README_image/害羞.png" width="24">   一个相信游戏能治愈心灵创伤的小小开发者。
 
-<img src="image/.README_image/害羞.png" width="24">   ![t](https://readme-typing-svg.demolab.com/?lines= 一个相信游戏能治愈心灵创伤的小小开发者。)
+
 
 ## <img src="image/.README_image/大哭.png" width="32" >提交了个蛇皮蛋子
 
 
 ![亮色](image/.README_image/github-contribution-grid-snake.svg)
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiredliu" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiredliu" alt="top-langs">
-</div>
+## <img src="image/.README_image/藏狐.png" width="32" >Github状态
+
+<img src="https://github-readme-stats.vercel.app/api?username=tiredliu&show_icons=true&theme=blue_navy&hide_title=true"> 
+
+
+
+## <img src="image/.README_image/星星眼.png" width="32" >技术栈
+
+![](https://skillicons.dev/icons?i=c,cpp,cs,unity,lua)
+
+## <img src="image/.README_image/狗头.png" width="32" >平台
+
+
+
+## <img src="image/.README_image/嗑瓜子.png" width="32" >语言
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiredliu&hide_title=true&layout=compact&text_color=82AAFF&border_color=ffffff&bg_color=000000">
+
+
+
+## <img src="image/.README_image/狗头.png" width="32" >寒暄
+
+<img src="image/.README_image/鼓掌.png" width="24" >ok
+
+<img src="image/.README_image/害羞.png" width="24" >本人刚刚进入github没多久
+
+<img src="image/.README_image/害羞.png" width="24" >今后会努力在自己的领域潜心钻研
+
+<img src="image/.README_image/笑歪.png" width="24" >麻烦各位多多指教
+
+<img src="image/.README_image/赞.png" width="24" >如果有些东西能够帮到你
+
+<img src="image/.README_image/爱你.png" width="24" >希望给我颗星星
+
