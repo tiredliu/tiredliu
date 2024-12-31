@@ -1,14 +1,14 @@
 
 
-# Welcome To My Github!<img src="image/.README_image/加油.png" width="32" >
+# Welcome To My Github!<img src="image/.README_image/加油.png" width="30" >
 
 
 
-<img src="image/.README_image/害羞.png" width="24">   一个相信游戏能治愈心灵创伤的小小开发者。
+<img src="image/.README_image/害羞.png" width="12">   一个相信游戏能治愈心灵创伤的小小开发者。
 
 
 
-## <img src="image/.README_image/大哭.png" width="32" ><span style="font-size: 32px;">提交了个蛇皮蛋子</span>
+## <img src="image/.README_image/大哭.png" width="24" >提交了个蛇皮蛋子
 
 
 ![亮色](image/.README_image/github-contribution-grid-snake.svg)
