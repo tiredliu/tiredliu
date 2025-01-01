@@ -33,15 +33,15 @@
 
 ## <img src="image/.README_image/狗头.png" width="24" >寒暄
 
-<img src="image/.README_image/鼓掌.png" width="24" >ok
+<img src="image/.README_image/鼓掌.png" width="20" >ok
 
-<img src="image/.README_image/害羞.png" width="24" >本人刚刚进入github没多久
+<img src="image/.README_image/害羞.png" width="20" >本人刚刚进入github没多久
 
-<img src="image/.README_image/害羞.png" width="24" >今后会努力在自己的领域潜心钻研
+<img src="image/.README_image/害羞.png" width="20" >今后会努力在自己的领域潜心钻研
 
-<img src="image/.README_image/笑歪.png" width="24" >麻烦各位多多指教
+<img src="image/.README_image/笑歪.png" width="20" >麻烦各位多多指教
 
-<img src="image/.README_image/赞.png" width="24" >如果有些东西能够帮到你
+<img src="image/.README_image/赞.png" width="20" >如果有些东西能够帮到你
 
-<img src="image/.README_image/爱你.png" width="24" >希望给我颗星星
+<img src="image/.README_image/爱你.png" width="20" >希望给我颗星星
 
