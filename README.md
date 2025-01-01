@@ -21,7 +21,7 @@
 
 ![](https://skillicons.dev/icons?i=c,cpp,cs,unity,lua)
 
-## <img src="image/.README_image/狗头.png" width="24" >平台b
+## <img src="image/.README_image/狗头.png" width="24" >平台
 
 [CSDN](https://blog.csdn.net/qq_52373338?spm=1010.2135.3001.5343)
 
