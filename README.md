@@ -21,9 +21,11 @@
 
 ![](https://skillicons.dev/icons?i=c,cpp,cs,unity,lua)
 
-## <img src="image/.README_image/狗头.png" width="24" >平台
+## <img src="image/.README_image/狗头.png" width="24" >平台b
 
+[CSDN]([这个bug不是我-CSDN博客](https://blog.csdn.net/qq_52373338?spm=1010.2135.3001.5343))
 
+[B站](https://space.bilibili.com/631602621?spm_id_from=333.1007.0.0)
 
 ## <img src="image/.README_image/嗑瓜子.png" width="24" >语言
 
