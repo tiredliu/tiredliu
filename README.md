@@ -1,6 +1,4 @@
 # Welcome To My Github!<img src="image/.README_image/加油.png" width="30"  >
-![](https://komarev.com/ghpvc/?username=tiredliu&label=浏览量)
-
 
 ### <img src="image/.README_image/害羞.png" width="16">   一个相信游戏能治愈心灵创伤的小小开发者。
 
