@@ -1,10 +1,10 @@
 # Welcome To My Github!<img src="image/.README_image/加油.png" width="30"  >
 
-### <img src="image/.README_image/害羞.png" width="16">   一个相信游戏能治愈心灵创伤的小小开发者。
+### <img src="image/.README_image/害羞.png" width="16"> 游戏是这个世界为数不多的廉价心灵创伤药。
 
 
 
-## <img src="image/.README_image/大哭.png" width="24" >提交了个蛇皮蛋子
+## <img src="image/.README_image/大哭.png" width="24" >提交
 
 
 ![亮色](image/.README_image/github-contribution-grid-snake.svg)
@@ -31,17 +31,25 @@
 
 
 
-## <img src="image/.README_image/狗头.png" width="24" >寒暄
+## <img src="image/.README_image/狗头.png" width="24" >回复
 
-<img src="image/.README_image/鼓掌.png" width="20" >ok
+Q:为什么学游戏？
 
-<img src="image/.README_image/害羞.png" width="20" >本人刚刚进入github没多久
+A:没那么多为什么，只是想追逐梦想而已。
 
-<img src="image/.README_image/害羞.png" width="20" >今后会努力在自己的领域潜心钻研
 
-<img src="image/.README_image/笑歪.png" width="20" >麻烦各位多多指教
 
-<img src="image/.README_image/赞.png" width="20" >如果有些东西能够帮到你
+Q:需要学多久?
 
-<img src="image/.README_image/爱你.png" width="20" >希望给我颗星星
+A:终身学习，学无止境。
+
+
+
+Q:梦想和面包谁更重要？
+
+A:面包重要，吃饱了才能更好追寻未名海。
+
+
+
+
 
